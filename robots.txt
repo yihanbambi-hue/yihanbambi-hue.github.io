@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://yihanbambi-hue.github.io//sitemap.xml
